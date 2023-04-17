@@ -1,3 +1,12 @@
 # AASB
 
-O package AASB é uma ferramenta desenvolvida no âmbito da Unidade Curricular “Algoritmos para a Análise de Sequências Biológicas” que apresenta algumas funcionalidades básicas ao nível da manipulação de sequências de índole biológico. Entre as funcionalidades presentes no package têm-se, entre outras, alinhamentos entre duas sequências, BLAST e alinhamentos múltiplos.
+## Curricular Unit
+Masters in Bioinformatics, University of Minho, 2021-2022.
+
+
+## Description
+A _Python_ package implementing some basic functionality relevant to the
+manipulation and analysis of biological sequences. Among others, features
+such as a simple version of _BLAST_ (Basic Local Alignment Search Tool) and
+an an interface for performing sequence alignments (simple and multiple) are
+provided.
